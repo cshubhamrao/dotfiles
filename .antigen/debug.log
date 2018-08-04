@@ -1,0 +1,1892 @@
+[WRN][1522606601.4176890850] /home/shubham/.antigen.zsh:266
+[WRN][1522606601.4176890850] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606601.4185779095] /home/shubham/.antigen.zsh:1572
+[WRN][1522606601.4185779095] -antigen-lock-init return code was 0
+[LOG][1522606601.4187564850] /home/shubham/.antigen.zsh:1574
+[LOG][1522606601.4187564850] LOADED EXTENSION lock EXT
+[WRN][1522606601.4212393761] /home/shubham/.antigen.zsh:1684
+[WRN][1522606601.4212393761] Init parallel extension PARALLEL
+[WRN][1522606601.4213531017] /home/shubham/.antigen.zsh:266
+[WRN][1522606601.4213531017] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606601.4214594364] /home/shubham/.antigen.zsh:1572
+[WRN][1522606601.4214594364] -antigen-parallel-init return code was 0
+[LOG][1522606601.4215309620] /home/shubham/.antigen.zsh:1574
+[LOG][1522606601.4215309620] LOADED EXTENSION parallel EXT
+[WRN][1522606601.4216001034] /home/shubham/.antigen.zsh:1692
+[WRN][1522606601.4216001034] Exec parallel extension PARALLEL
+[WRN][1522606601.4219632149] /home/shubham/.antigen.zsh:266
+[WRN][1522606601.4219632149] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606601.4220659733] /home/shubham/.antigen.zsh:1572
+[WRN][1522606601.4220659733] -antigen-defer-init return code was 0
+[LOG][1522606601.4221313000] /home/shubham/.antigen.zsh:1574
+[LOG][1522606601.4221313000] LOADED EXTENSION defer EXT
+[WRN][1522606601.4231941700] /home/shubham/.antigen.zsh:266
+[WRN][1522606601.4231941700] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606601.4234740734] /home/shubham/.antigen.zsh:1572
+[WRN][1522606601.4234740734] -antigen-cache-init return code was 0
+[LOG][1522606601.4235501289] /home/shubham/.antigen.zsh:1574
+[LOG][1522606601.4235501289] LOADED EXTENSION cache EXT
+[WRN][1522606601.4256434441] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4256434441] Updated meta: target antigen mode once type pre called 1
+[WRN][1522606601.4257531166] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4257531166] Processing hooks: antigen-lock
+[WRN][1522606601.4258403778] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4258403778] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1522606601.4259185791] /home/shubham/.antigen.zsh:4
+[LOG][1522606601.4259185791] antigen-lock called
+[WRN][1522606601.4259922504] /home/shubham/.antigen.zsh:15
+[WRN][1522606601.4259922504] Creating antigen-lock file at /home/shubham/.antigen/.lock
+[WRN][1522606601.4274668694] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4274668694] -antigen-hook-antigen use oh-my-zsh
+[WRN][1522606601.4400675297] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4400675297] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1522606601.4402279854] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4402279854] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1522606601.4403152466] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4403152466] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4403846264] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4403846264] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1522606601.4404976368] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4404976368] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1522606601.4405958652] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4405958652] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4407420158] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4407420158] Return from hook antigen with 0
+[WRN][1522606601.4409434795] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4409434795] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4410107136] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4410107136] Processing hooks: antigen-lock
+[WRN][1522606601.4410817623] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4410817623] -antigen-hook-antigen bundle git
+[WRN][1522606601.4412751198] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4412751198] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1522606601.4413890839] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4413890839] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1522606601.4414644241] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4414644241] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4415273666] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4415273666] Pre hook: antigen-bundle-cached git
+[WRN][1522606601.4416298866] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4416298866] Replace hook: antigen-bundle-defer git
+[WRN][1522606601.4417169094] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4417169094] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4419124126] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4419124126] Return from hook antigen with 0
+[WRN][1522606601.4421901703] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4421901703] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4422943592] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4422943592] Processing hooks: antigen-lock
+[WRN][1522606601.4424071312] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4424071312] -antigen-hook-antigen bundle heroku
+[WRN][1522606601.4426991940] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4426991940] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1522606601.4428796768] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4428796768] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1522606601.4430003166] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4430003166] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4431006908] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4431006908] Pre hook: antigen-bundle-cached heroku
+[WRN][1522606601.4432663918] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4432663918] Replace hook: antigen-bundle-defer heroku
+[WRN][1522606601.4434056282] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4434056282] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4435770512] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4435770512] Return from hook antigen with 0
+[WRN][1522606601.4438395500] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4438395500] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4439425468] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4439425468] Processing hooks: antigen-lock
+[WRN][1522606601.4440541267] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4440541267] -antigen-hook-antigen bundle pip
+[WRN][1522606601.4443449974] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4443449974] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1522606601.4445235729] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4445235729] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1522606601.4446437359] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4446437359] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4447443485] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4447443485] Pre hook: antigen-bundle-cached pip
+[WRN][1522606601.4449074268] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4449074268] Replace hook: antigen-bundle-defer pip
+[WRN][1522606601.4450471401] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4450471401] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4452180862] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4452180862] Return from hook antigen with 0
+[WRN][1522606601.4454820156] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4454820156] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4455854893] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4455854893] Processing hooks: antigen-lock
+[WRN][1522606601.4456989765] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4456989765] -antigen-hook-antigen bundle lein
+[WRN][1522606601.4460141659] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4460141659] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1522606601.4462072849] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4462072849] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1522606601.4463272095] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4463272095] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4464280605] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4464280605] Pre hook: antigen-bundle-cached lein
+[WRN][1522606601.4465918541] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4465918541] Replace hook: antigen-bundle-defer lein
+[WRN][1522606601.4467310905] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4467310905] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4469029903] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4469029903] Return from hook antigen with 0
+[WRN][1522606601.4471728802] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4471728802] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4472773075] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4472773075] Processing hooks: antigen-lock
+[WRN][1522606601.4473896027] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4473896027] -antigen-hook-antigen bundle command-not-found
+[WRN][1522606601.4476778507] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4476778507] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1522606601.4478549957] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4478549957] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1522606601.4479734898] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4479734898] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4480736256] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4480736256] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1522606601.4482405186] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4482405186] Replace hook: antigen-bundle-defer command-not-found
+[WRN][1522606601.4483804703] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4483804703] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4485502243] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4485502243] Return from hook antigen with 0
+[WRN][1522606601.4488332272] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4488332272] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4489359856] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4489359856] Processing hooks: antigen-lock
+[WRN][1522606601.4490592480] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4490592480] -antigen-hook-antigen bundle zsh-users/zsh-syntax-highlighting
+[WRN][1522606601.4493849277] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4493849277] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1522606601.4495661259] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4495661259] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1522606601.4496860504] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4496860504] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4497883320] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4497883320] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1522606601.4499797821] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4499797821] Replace hook: antigen-bundle-defer zsh-users/zsh-syntax-highlighting
+[WRN][1522606601.4501237869] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4501237869] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4502959251] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4502959251] Return from hook antigen with 0
+[WRN][1522606601.4505794048] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4505794048] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4506838322] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4506838322] Processing hooks: antigen-lock
+[WRN][1522606601.4507973194] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4507973194] -antigen-hook-antigen theme bhilburn/powerlevel9k
+[WRN][1522606601.4542236328] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4542236328] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1522606601.4543561935] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4543561935] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1522606601.4544322491] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4544322491] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606601.4544951916] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4544951916] Pre hook: antigen-bundle-cached bhilburn/powerlevel9k --btype=theme
+[WRN][1522606601.4545981884] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4545981884] Replace hook: antigen-bundle-defer bhilburn/powerlevel9k --btype=theme
+[WRN][1522606601.4546828270] /home/shubham/.antigen.zsh:1500
+[WRN][1522606601.4546828270] antigen-bundle-defer shortcircuited
+[LOG][1522606601.4548196793] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4548196793] Return from hook antigen with 0
+[WRN][1522606601.4549858570] /home/shubham/.antigen.zsh:1462
+[WRN][1522606601.4549858570] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606601.4550452232] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4550452232] Processing hooks: antigen-lock
+[WRN][1522606601.4551086426] /home/shubham/.antigen.zsh:1505
+[WRN][1522606601.4551086426] -antigen-hook-antigen apply
+[WRN][1522606601.4552757740] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4552757740] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1522606601.4553773403] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4553773403] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1522606601.4554743767] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4554743767] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1522606601.4555704594] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4555704594] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1522606601.4556629658] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4556629658] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1522606601.4557297230] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4557297230] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1522606601.4557886124] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4557886124] Pre hook: antigen-apply-parallel
+[WRN][1522606601.4558458328] /home/shubham/.antigen.zsh:53
+[WRN][1522606601.4558458328] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1522606601.4559988976] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4559988976] Pre hook: antigen-apply-defer
+[WRN][1522606601.4560596943] /home/shubham/.antigen.zsh:10
+[WRN][1522606601.4560596943] Defer pre-apply DEFER PRE-APPLY
+[LOG][1522606601.4562227726] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4562227726] Processing deferred bundle: --loc=lib DEFER
+[WRN][1522606601.4563660622] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4563660622] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1522606601.4564654827] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4564654827] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1522606601.4565339088] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4565339088] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4565906525] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4565906525] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1522606601.4566864967] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4566864967] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1522606601.4567544460] /home/shubham/.zshrc:5
+[TRA][1522606601.4567544460] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1522606601.4567544460] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4568388462] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4568388462] Replaced hooked function.
+[LOG][1522606601.4568958282] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4568958282] Return from hook antigen-bundle with 0
+[LOG][1522606601.4569735527] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4569735527] Processing deferred bundle: git DEFER
+[WRN][1522606601.4571099281] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4571099281] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1522606601.4572060108] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4572060108] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1522606601.4572720528] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4572720528] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4573271275] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4573271275] Pre hook: antigen-bundle-cached git
+[WRN][1522606601.4574191570] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4574191570] Replace hook: antigen-bundle-parallel git
+[TRA][1522606601.4574787617] /home/shubham/.zshrc:5
+[TRA][1522606601.4574787617] antigen-bundle-parallel: git PARALLEL
+[TRA][1522606601.4574787617] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4575543404] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4575543404] Replaced hooked function.
+[LOG][1522606601.4576103687] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4576103687] Return from hook antigen-bundle with 0
+[LOG][1522606601.4576873779] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4576873779] Processing deferred bundle: heroku DEFER
+[WRN][1522606601.4578320980] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4578320980] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1522606601.4579308033] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4579308033] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1522606601.4579980373] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4579980373] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4580538273] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4580538273] Pre hook: antigen-bundle-cached heroku
+[WRN][1522606601.4581460953] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4581460953] Replace hook: antigen-bundle-parallel heroku
+[TRA][1522606601.4582056999] /home/shubham/.zshrc:5
+[TRA][1522606601.4582056999] antigen-bundle-parallel: heroku PARALLEL
+[TRA][1522606601.4582056999] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4582817554] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4582817554] Replaced hooked function.
+[LOG][1522606601.4583377838] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4583377838] Return from hook antigen-bundle with 0
+[LOG][1522606601.4584143162] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4584143162] Processing deferred bundle: pip DEFER
+[WRN][1522606601.4585483074] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4585483074] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1522606601.4586443901] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4586443901] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1522606601.4587111473] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4587111473] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4587666988] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4587666988] Pre hook: antigen-bundle-cached pip
+[WRN][1522606601.4588584900] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4588584900] Replace hook: antigen-bundle-parallel pip
+[TRA][1522606601.4589178562] /home/shubham/.zshrc:5
+[TRA][1522606601.4589178562] antigen-bundle-parallel: pip PARALLEL
+[TRA][1522606601.4589178562] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4589991570] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4589991570] Replaced hooked function.
+[LOG][1522606601.4590559006] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4590559006] Return from hook antigen-bundle with 0
+[LOG][1522606601.4591326714] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4591326714] Processing deferred bundle: lein DEFER
+[WRN][1522606601.4592669010] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4592669010] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1522606601.4593627453] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4593627453] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1522606601.4594292641] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4594292641] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4594855309] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4594855309] Pre hook: antigen-bundle-cached lein
+[WRN][1522606601.4595770836] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4595770836] Replace hook: antigen-bundle-parallel lein
+[TRA][1522606601.4596366882] /home/shubham/.zshrc:5
+[TRA][1522606601.4596366882] antigen-bundle-parallel: lein PARALLEL
+[TRA][1522606601.4596366882] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4597129822] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4597129822] Replaced hooked function.
+[LOG][1522606601.4597692490] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4597692490] Return from hook antigen-bundle with 0
+[LOG][1522606601.4598467350] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4598467350] Processing deferred bundle: command-not-found DEFER
+[WRN][1522606601.4599819183] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4599819183] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1522606601.4600777626] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4600777626] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1522606601.4601442814] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4601442814] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4602000713] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4602000713] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1522606601.4602930546] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4602930546] Replace hook: antigen-bundle-parallel command-not-found
+[TRA][1522606601.4603533745] /home/shubham/.zshrc:5
+[TRA][1522606601.4603533745] antigen-bundle-parallel: command-not-found PARALLEL
+[TRA][1522606601.4603533745] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4604291916] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4604291916] Replaced hooked function.
+[LOG][1522606601.4604852200] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4604852200] Return from hook antigen-bundle with 0
+[LOG][1522606601.4605624676] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4605624676] Processing deferred bundle: zsh-users/zsh-syntax-highlighting DEFER
+[WRN][1522606601.4606983662] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4606983662] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1522606601.4607937336] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4607937336] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1522606601.4608597755] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4608597755] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4609217644] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4609217644] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1522606601.4610176086] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4610176086] Replace hook: antigen-bundle-parallel zsh-users/zsh-syntax-highlighting
+[TRA][1522606601.4610781670] /home/shubham/.zshrc:5
+[TRA][1522606601.4610781670] antigen-bundle-parallel: zsh-users/zsh-syntax-highlighting PARALLEL
+[TRA][1522606601.4610781670] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4611551762] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4611551762] Replaced hooked function.
+[LOG][1522606601.4612119198] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4612119198] Return from hook antigen-bundle with 0
+[LOG][1522606601.4612894058] /home/shubham/.antigen.zsh:16
+[LOG][1522606601.4612894058] Processing deferred bundle: bhilburn/powerlevel9k --btype=theme DEFER
+[WRN][1522606601.4614262581] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4614262581] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1522606601.4615221024] /home/shubham/.antigen.zsh:1469
+[WRN][1522606601.4615221024] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1522606601.4615910053] /home/shubham/.antigen.zsh:1484
+[WRN][1522606601.4615910053] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606601.4616470337] /home/shubham/.antigen.zsh:1487
+[WRN][1522606601.4616470337] Pre hook: antigen-bundle-cached bhilburn/powerlevel9k --btype=theme
+[WRN][1522606601.4617402554] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4617402554] Replace hook: antigen-bundle-parallel bhilburn/powerlevel9k --btype=theme
+[TRA][1522606601.4618155956] /home/shubham/.zshrc:5
+[TRA][1522606601.4618155956] antigen-bundle-parallel: bhilburn/powerlevel9k --btype=theme PARALLEL
+[TRA][1522606601.4618155956] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606601.4618971348] /home/shubham/.antigen.zsh:1509
+[WRN][1522606601.4618971348] Replaced hooked function.
+[LOG][1522606601.4619538784] /home/shubham/.antigen.zsh:1518
+[LOG][1522606601.4619538784] Return from hook antigen-bundle with 0
+[WRN][1522606601.4620642662] /home/shubham/.antigen.zsh:1498
+[WRN][1522606601.4620642662] Replace hook: antigen-apply-parallel-execute
+[WRN][1522606601.4621229172] /home/shubham/.antigen.zsh:65
+[WRN][1522606601.4621229172] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1522606601.4622702599] /home/shubham/.antigen.zsh:4
+[WRN][1522606601.4622702599] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1522606601.4623351097] /home/shubham/.antigen.zsh:8
+[WRN][1522606601.4623351097] Gonna install in parallel 8 bundles. PARALLEL
+[WRN][1522606601.4623885155] /home/shubham/.antigen.zsh:10
+[WRN][1522606601.4623885155] --loc=lib git heroku pip lein command-not-found zsh-users/zsh-syntax-highlighting bhilburn/powerlevel9k --btype=theme PARALLEL
+[WRN][1522606601.4628539085] /home/shubham/.antigen.zsh:17
+[WRN][1522606601.4628539085] Install in parallel robbyrussell/oh-my-zsh. PARALLEL
+[WRN][1522606601.4638369083] /home/shubham/.antigen.zsh:24
+[WRN][1522606601.4638369083] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606601.4643220901] /home/shubham/.antigen.zsh:24
+[WRN][1522606601.4643220901] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606601.4648544788] /home/shubham/.antigen.zsh:24
+[WRN][1522606601.4648544788] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606601.4653453827] /home/shubham/.antigen.zsh:24
+[WRN][1522606601.4653453827] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606601.4659302235] /home/shubham/.antigen.zsh:24
+[WRN][1522606601.4659302235] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606601.4663677216] /home/shubham/.antigen.zsh:17
+[WRN][1522606601.4663677216] Install in parallel zsh-users/zsh-syntax-highlighting. PARALLEL
+[WRN][1522606601.4673962593] /home/shubham/.antigen.zsh:17
+[WRN][1522606601.4673962593] Install in parallel bhilburn/powerlevel9k. PARALLEL
+[WRN][1522606610.0061323643] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0061323643] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1522606610.0064697266] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0064697266] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0066690445] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0066690445] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1522606610.0069534779] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0069534779] -antigen-hook-antigen-bundle --loc=lib
+[TRA][1522606610.0071575642] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0071575642] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1522606610.0071575642] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0095224380] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0095224380] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1522606610.0097923279] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0097923279] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0101051331] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0101051331] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc lib name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606610.0105066299] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0105066299] Replaced hooked function.
+[LOG][1522606610.0106987953] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0106987953] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0114164352] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0114164352] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1522606610.0116388798] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0116388798] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0119340420] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0119340420] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh
+[WRN][1522606610.0123920441] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0123920441] Replaced hooked function.
+[LOG][1522606610.0125739574] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0125739574] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0129425526] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0129425526] Return from hook antigen-bundle with 0
+[WRN][1522606610.0134446621] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0134446621] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1522606610.0136532784] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0136532784] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0138611794] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0138611794] Pre hook: antigen-bundle-cached git
+[WRN][1522606610.0141370296] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0141370296] -antigen-hook-antigen-bundle git
+[TRA][1522606610.0143179893] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0143179893] Called antigen-bundle with git BUNDLE
+[TRA][1522606610.0143179893] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0162134171] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0162134171] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1522606610.0164690018] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0164690018] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0167417526] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0167417526] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/git name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606610.0171227455] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0171227455] Replaced hooked function.
+[LOG][1522606610.0173101425] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0173101425] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0178647041] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0178647041] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1522606610.0179436207] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0179436207] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0180201530] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0180201530] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh
+[WRN][1522606610.0181038380] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0181038380] Replaced hooked function.
+[LOG][1522606610.0181629658] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0181629658] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0182740688] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0182740688] Return from hook antigen-bundle with 0
+[WRN][1522606610.0184373856] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0184373856] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1522606610.0185065269] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0185065269] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0185637474] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0185637474] Pre hook: antigen-bundle-cached heroku
+[WRN][1522606610.0186491013] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0186491013] -antigen-hook-antigen-bundle heroku
+[TRA][1522606610.0187084675] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0187084675] Called antigen-bundle with heroku BUNDLE
+[TRA][1522606610.0187084675] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0193548203] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0193548203] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1522606610.0194396973] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0194396973] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0195357800] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0195357800] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/heroku name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606610.0196642876] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0196642876] Replaced hooked function.
+[LOG][1522606610.0197269917] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0197269917] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0198976994] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0198976994] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1522606610.0199706554] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0199706554] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0200448036] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0200448036] Replace hook: -antigen-load-source-cached
+[WRN][1522606610.0201246738] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0201246738] Replaced hooked function.
+[LOG][1522606610.0201838017] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0201838017] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0202946663] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0202946663] Return from hook antigen-bundle with 0
+[WRN][1522606610.0204567909] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0204567909] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1522606610.0205254555] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0205254555] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0205812454] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0205812454] Pre hook: antigen-bundle-cached pip
+[WRN][1522606610.0206658840] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0206658840] -antigen-hook-antigen-bundle pip
+[TRA][1522606610.0207252502] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0207252502] Called antigen-bundle with pip BUNDLE
+[TRA][1522606610.0207252502] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0213527679] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0213527679] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1522606610.0214376450] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0214376450] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0215270519] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0215270519] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/pip name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606610.0216538906] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0216538906] Replaced hooked function.
+[LOG][1522606610.0217163563] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0217163563] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0219008923] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0219008923] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1522606610.0219762325] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0219762325] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0220513344] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0220513344] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip/pip.plugin.zsh
+[WRN][1522606610.0221352577] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0221352577] Replaced hooked function.
+[LOG][1522606610.0221946239] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0221946239] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0223047733] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0223047733] Return from hook antigen-bundle with 0
+[WRN][1522606610.0224716663] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0224716663] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1522606610.0225405693] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0225405693] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0225963593] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0225963593] Pre hook: antigen-bundle-cached lein
+[WRN][1522606610.0226819515] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0226819515] -antigen-hook-antigen-bundle lein
+[TRA][1522606610.0227413177] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0227413177] Called antigen-bundle with lein BUNDLE
+[TRA][1522606610.0227413177] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0233652592] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0233652592] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1522606610.0234501362] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0234501362] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0235407352] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0235407352] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/lein name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606610.0236685276] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0236685276] Replaced hooked function.
+[LOG][1522606610.0237312317] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0237312317] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0239026546] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0239026546] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1522606610.0239753723] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0239753723] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0240507126] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0240507126] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein/lein.plugin.zsh
+[WRN][1522606610.0241341591] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0241341591] Replaced hooked function.
+[LOG][1522606610.0241928101] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0241928101] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0243043900] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0243043900] Return from hook antigen-bundle with 0
+[WRN][1522606610.0244660378] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0244660378] Updated meta: target antigen-bundle mode repeat type pre called 22
+[WRN][1522606610.0245344639] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0245344639] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0245909691] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0245909691] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1522606610.0246760845] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0246760845] -antigen-hook-antigen-bundle command-not-found
+[TRA][1522606610.0247361660] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0247361660] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1522606610.0247361660] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0253643990] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0253643990] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1522606610.0254495144] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0254495144] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0255401134] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0255401134] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/command-not-found name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606610.0256748199] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0256748199] Replaced hooked function.
+[LOG][1522606610.0257380009] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0257380009] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0259251595] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0259251595] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1522606610.0260000229] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0260000229] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0260760784] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0260760784] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh
+[WRN][1522606610.0261623859] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0261623859] Replaced hooked function.
+[LOG][1522606610.0262215137] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0262215137] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0263352394] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0263352394] Return from hook antigen-bundle with 0
+[WRN][1522606610.0264976025] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0264976025] Updated meta: target antigen-bundle mode repeat type pre called 23
+[WRN][1522606610.0265662670] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0265662670] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0266227722] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0266227722] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1522606610.0267100334] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0267100334] -antigen-hook-antigen-bundle zsh-users/zsh-syntax-highlighting
+[TRA][1522606610.0267703533] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0267703533] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1522606610.0267703533] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0274264812] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0274264812] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1522606610.0275123119] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0275123119] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0276045799] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0276045799] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting btype plugin url https://github.com/zsh-users/zsh-syntax-highlighting.git loc / name zsh-users/zsh-syntax-highlighting make_local_clone true
+[WRN][1522606610.0277364254] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0277364254] Replaced hooked function.
+[LOG][1522606610.0277986526] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0277986526] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0279719830] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0279719830] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1522606610.0280451775] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0280451775] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0281202793] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0281202793] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting///zsh-syntax-highlighting.plugin.zsh
+[WRN][1522606610.0282044411] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0282044411] Replaced hooked function.
+[LOG][1522606610.0282638073] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0282638073] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0283820629] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0283820629] Return from hook antigen-bundle with 0
+[WRN][1522606610.0285451412] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0285451412] Updated meta: target antigen-bundle mode repeat type pre called 24
+[WRN][1522606610.0286138058] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0286138058] Processing hooks: antigen-bundle-cached
+[WRN][1522606610.0286710262] /home/shubham/.antigen.zsh:1487
+[WRN][1522606610.0286710262] Pre hook: antigen-bundle-cached bhilburn/powerlevel9k --btype=theme
+[WRN][1522606610.0287590027] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0287590027] -antigen-hook-antigen-bundle bhilburn/powerlevel9k --btype=theme
+[TRA][1522606610.0288197994] /home/shubham/.antigen.zsh:2
+[TRA][1522606610.0288197994] Called antigen-bundle with bhilburn/powerlevel9k --btype=theme BUNDLE
+[TRA][1522606610.0288197994] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606610.0294687748] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0294687748] Updated meta: target -antigen-load-env mode repeat type replace called 8
+[WRN][1522606610.0295536518] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0295536518] Processing hooks: -antigen-load-env-cached
+[WRN][1522606610.0296435356] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0296435356] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/bhilburn/powerlevel9k btype theme url https://github.com/bhilburn/powerlevel9k.git loc / name bhilburn/powerlevel9k make_local_clone true
+[WRN][1522606610.0297722816] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0297722816] Replaced hooked function.
+[LOG][1522606610.0298423767] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0298423767] Return from hook -antigen-load-env with 0
+[WRN][1522606610.0300166607] /home/shubham/.antigen.zsh:1469
+[WRN][1522606610.0300166607] Updated meta: target -antigen-load-source mode repeat type replace called 8
+[WRN][1522606610.0300900936] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0300900936] Processing hooks: -antigen-load-source-cached
+[WRN][1522606610.0301647186] /home/shubham/.antigen.zsh:1498
+[WRN][1522606610.0301647186] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/bhilburn/powerlevel9k///powerlevel9k.zsh-theme
+[WRN][1522606610.0302481651] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.0302481651] Replaced hooked function.
+[LOG][1522606610.0303075314] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0303075314] Return from hook -antigen-load-source with 0
+[LOG][1522606610.0304195881] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.0304195881] Return from hook antigen-bundle with 0
+[WRN][1522606610.0304973125] /home/shubham/.antigen.zsh:48
+[WRN][1522606610.0304973125] Parallel install done PARALLEL
+[WRN][1522606610.0307335854] /home/shubham/.antigen.zsh:1462
+[WRN][1522606610.0307335854] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1522606610.0308110714] /home/shubham/.antigen.zsh:1462
+[WRN][1522606610.0308110714] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1522606610.0308840275] /home/shubham/.antigen.zsh:1462
+[WRN][1522606610.0308840275] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1522606610.0309553146] /home/shubham/.antigen.zsh:1462
+[WRN][1522606610.0309553146] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1522606610.0310115814] /home/shubham/.antigen.zsh:1484
+[WRN][1522606610.0310115814] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1522606610.0310759544] /home/shubham/.antigen.zsh:1505
+[WRN][1522606610.0310759544] -antigen-hook-antigen-apply 
+[LOG][1522606610.0311324596] /home/shubham/.antigen.zsh:2
+[LOG][1522606610.0311324596] Called antigen-apply
+[TRA][1522606610.0311834812] /home/shubham/.antigen.zsh:3
+[TRA][1522606610.0311834812] Gonna create compdump file @ apply COMPDUMP
+[TRA][1522606610.0311834812] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[LOG][1522606610.2517185211] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.2517185211] Return from hook antigen-apply with 0
+[WRN][1522606610.2519309521] /home/shubham/.antigen.zsh:1509
+[WRN][1522606610.2519309521] Replaced hooked function.
+[WRN][1522606610.2520005703] /home/shubham/.antigen.zsh:1513
+[WRN][1522606610.2520005703] Post hook: antigen-apply-lock
+[WRN][1522606610.2520666122] /home/shubham/.antigen.zsh:22
+[WRN][1522606610.2520666122] Freeing antigen-lock file at /home/shubham/.antigen/.lock
+[WRN][1522606610.2533299923] /home/shubham/.antigen.zsh:1513
+[WRN][1522606610.2533299923] Post hook: antigen-apply-cached
+[LOG][1522606610.2534391880] /home/shubham/.antigen.zsh:7
+[LOG][1522606610.2534391880] TRACE: /home/shubham/.antigen.zsh:1514 /home/shubham/.antigen.zsh:2 /home/shubham/.antigen.zsh:11 /home/shubham/.antigen.zsh:1506 /home/shubham/.antigen.zsh:2 /home/shubham/.zshrc:25 zsh:0
+[LOG][1522606610.2537717819] /home/shubham/.antigen.zsh:1787
+[LOG][1522606610.2537717819] Gonna generate cache for /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip/pip.plugin.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein/lein.plugin.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting// /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting///zsh-syntax-highlighting.plugin.zsh /home/shubham/.antigen/bundles/bhilburn/powerlevel9k// /home/shubham/.antigen/bundles/bhilburn/powerlevel9k///powerlevel9k.zsh-theme
+[LOG][1522606610.2616667747] /home/shubham/.antigen.zsh:1844
+[LOG][1522606610.2616667747] CHECK_FILES /home/shubham/.zshrc /home/shubham/.zshrc
+[LOG][1522606610.3830986023] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.3830986023] Return from hook antigen-apply with 0
+[LOG][1522606610.3832659721] /home/shubham/.antigen.zsh:1518
+[LOG][1522606610.3832659721] Return from hook antigen with 0
+[WRN][1522606827.7097885609] /home/shubham/.antigen.zsh:266
+[WRN][1522606827.7097885609] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606827.7312130928] /home/shubham/.antigen.zsh:1572
+[WRN][1522606827.7312130928] -antigen-lock-init return code was 0
+[LOG][1522606827.7312979698] /home/shubham/.antigen.zsh:1574
+[LOG][1522606827.7312979698] LOADED EXTENSION lock EXT
+[WRN][1522606827.7326881886] /home/shubham/.antigen.zsh:1684
+[WRN][1522606827.7326881886] Init parallel extension PARALLEL
+[WRN][1522606827.7327802181] /home/shubham/.antigen.zsh:266
+[WRN][1522606827.7327802181] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606827.7328629494] /home/shubham/.antigen.zsh:1572
+[WRN][1522606827.7328629494] -antigen-parallel-init return code was 0
+[LOG][1522606827.7329144478] /home/shubham/.antigen.zsh:1574
+[LOG][1522606827.7329144478] LOADED EXTENSION parallel EXT
+[WRN][1522606827.7329668999] /home/shubham/.antigen.zsh:1692
+[WRN][1522606827.7329668999] Exec parallel extension PARALLEL
+[WRN][1522606827.7332437038] /home/shubham/.antigen.zsh:266
+[WRN][1522606827.7332437038] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606827.7333242893] /home/shubham/.antigen.zsh:1572
+[WRN][1522606827.7333242893] -antigen-defer-init return code was 0
+[LOG][1522606827.7333743572] /home/shubham/.antigen.zsh:1574
+[LOG][1522606827.7333743572] LOADED EXTENSION defer EXT
+[WRN][1522606827.7342457771] /home/shubham/.antigen.zsh:266
+[WRN][1522606827.7342457771] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1522606827.7344725132] /home/shubham/.antigen.zsh:1572
+[WRN][1522606827.7344725132] -antigen-cache-init return code was 0
+[LOG][1522606827.7345297337] /home/shubham/.antigen.zsh:1574
+[LOG][1522606827.7345297337] LOADED EXTENSION cache EXT
+[WRN][1522606827.7360982895] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7360982895] Updated meta: target antigen mode once type pre called 1
+[WRN][1522606827.7361848354] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7361848354] Processing hooks: antigen-lock
+[WRN][1522606827.7362401485] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7362401485] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1522606827.7362961769] /home/shubham/.antigen.zsh:4
+[LOG][1522606827.7362961769] antigen-lock called
+[WRN][1522606827.7363557816] /home/shubham/.antigen.zsh:15
+[WRN][1522606827.7363557816] Creating antigen-lock file at /home/shubham/.antigen/.lock
+[WRN][1522606827.7394909859] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7394909859] -antigen-hook-antigen use oh-my-zsh
+[WRN][1522606827.7412118912] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7412118912] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1522606827.7413718700] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7413718700] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1522606827.7414577007] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7414577007] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7415270805] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7415270805] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1522606827.7416379452] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7416379452] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1522606827.7417364120] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7417364120] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7418980598] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7418980598] Return from hook antigen with 0
+[WRN][1522606827.7421033382] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7421033382] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7421736717] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7421736717] Processing hooks: antigen-lock
+[WRN][1522606827.7422468662] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7422468662] -antigen-hook-antigen bundle git
+[WRN][1522606827.7424428463] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7424428463] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1522606827.7425723076] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7425723076] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1522606827.7426500320] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7426500320] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7427167892] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7427167892] Pre hook: antigen-bundle-cached git
+[WRN][1522606827.7428233624] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7428233624] Replace hook: antigen-bundle-defer git
+[WRN][1522606827.7429101467] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7429101467] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7430188656] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7430188656] Return from hook antigen with 0
+[WRN][1522606827.7432029247] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7432029247] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7432725430] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7432725430] Processing hooks: antigen-lock
+[WRN][1522606827.7433466911] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7433466911] -antigen-hook-antigen bundle heroku
+[WRN][1522606827.7435414791] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7435414791] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1522606827.7436611652] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7436611652] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1522606827.7437391281] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7437391281] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7438042164] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7438042164] Pre hook: antigen-bundle-cached heroku
+[WRN][1522606827.7439088821] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7439088821] Replace hook: antigen-bundle-defer heroku
+[WRN][1522606827.7440035343] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7440035343] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7441146374] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7441146374] Return from hook antigen with 0
+[WRN][1522606827.7442884445] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7442884445] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7443535328] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7443535328] Processing hooks: antigen-lock
+[WRN][1522606827.7444260120] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7444260120] -antigen-hook-antigen bundle pip
+[WRN][1522606827.7446200848] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7446200848] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1522606827.7447388172] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7447388172] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1522606827.7448141575] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7448141575] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7448792458] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7448792458] Pre hook: antigen-bundle-cached pip
+[WRN][1522606827.7449853420] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7449853420] Replace hook: antigen-bundle-defer pip
+[WRN][1522606827.7450749874] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7450749874] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7451870441] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7451870441] Return from hook antigen with 0
+[WRN][1522606827.7453627586] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7453627586] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7454297543] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7454297543] Processing hooks: antigen-lock
+[WRN][1522606827.7455029488] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7455029488] -antigen-hook-antigen bundle lein
+[WRN][1522606827.7456989288] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7456989288] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1522606827.7458374500] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7458374500] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1522606827.7459163666] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7459163666] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7459814548] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7459814548] Pre hook: antigen-bundle-cached lein
+[WRN][1522606827.7460877895] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7460877895] Replace hook: antigen-bundle-defer lein
+[WRN][1522606827.7461752892] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7461752892] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7462863922] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7462863922] Return from hook antigen with 0
+[WRN][1522606827.7464699745] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7464699745] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7465369701] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7465369701] Processing hooks: antigen-lock
+[WRN][1522606827.7466092110] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7466092110] -antigen-hook-antigen bundle command-not-found
+[WRN][1522606827.7468018532] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7468018532] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1522606827.7469241619] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7469241619] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1522606827.7470021248] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7470021248] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7470686436] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7470686436] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1522606827.7471773624] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7471773624] Replace hook: antigen-bundle-defer command-not-found
+[WRN][1522606827.7472651005] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7472651005] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7473762035] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7473762035] Return from hook antigen with 0
+[WRN][1522606827.7475652695] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7475652695] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7476341724] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7476341724] Processing hooks: antigen-lock
+[WRN][1522606827.7477073669] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7477073669] -antigen-hook-antigen bundle zsh-users/zsh-syntax-highlighting
+[WRN][1522606827.7479050159] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7479050159] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1522606827.7480235100] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7480235100] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1522606827.7481033802] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7481033802] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7481706142] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7481706142] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1522606827.7482783794] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7482783794] Replace hook: antigen-bundle-defer zsh-users/zsh-syntax-highlighting
+[WRN][1522606827.7483675480] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7483675480] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7484776974] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7484776974] Return from hook antigen with 0
+[WRN][1522606827.7486660480] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7486660480] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7487337589] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7487337589] Processing hooks: antigen-lock
+[WRN][1522606827.7488057613] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7488057613] -antigen-hook-antigen theme bhilburn/powerlevel9k
+[WRN][1522606827.7510280609] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7510280609] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1522606827.7511763573] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7511763573] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1522606827.7512600422] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7512600422] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1522606827.7513279915] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7513279915] Pre hook: antigen-bundle-cached bhilburn/powerlevel9k --btype=theme
+[WRN][1522606827.7514414787] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7514414787] Replace hook: antigen-bundle-defer bhilburn/powerlevel9k --btype=theme
+[WRN][1522606827.7515373230] /home/shubham/.antigen.zsh:1500
+[WRN][1522606827.7515373230] antigen-bundle-defer shortcircuited
+[LOG][1522606827.7516899109] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7516899109] Return from hook antigen with 0
+[WRN][1522606827.7518866062] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7518866062] Ignoring hook due to mode once: antigen-lock
+[WRN][1522606827.7519569397] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7519569397] Processing hooks: antigen-lock
+[WRN][1522606827.7520315647] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7520315647] -antigen-hook-antigen apply
+[WRN][1522606827.7522361279] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7522361279] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1522606827.7523577213] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7523577213] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1522606827.7524740696] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7524740696] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1522606827.7525892258] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7525892258] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1522606827.7526993752] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7526993752] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1522606827.7527794838] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7527794838] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1522606827.7528486252] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7528486252] Pre hook: antigen-apply-parallel
+[WRN][1522606827.7529153824] /home/shubham/.antigen.zsh:53
+[WRN][1522606827.7529153824] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1522606827.7531013489] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7531013489] Pre hook: antigen-apply-defer
+[WRN][1522606827.7531712055] /home/shubham/.antigen.zsh:10
+[WRN][1522606827.7531712055] Defer pre-apply DEFER PRE-APPLY
+[LOG][1522606827.7533640862] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7533640862] Processing deferred bundle: --loc=lib DEFER
+[WRN][1522606827.7535405159] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7535405159] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1522606827.7536644936] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7536644936] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1522606827.7537438869] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7537438869] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7538216114] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7538216114] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1522606827.7539355755] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7539355755] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1522606827.7540137768] /home/shubham/.zshrc:5
+[TRA][1522606827.7540137768] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1522606827.7540137768] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7541120052] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7541120052] Replaced hooked function.
+[LOG][1522606827.7541790009] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7541790009] Return from hook antigen-bundle with 0
+[LOG][1522606827.7542703152] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7542703152] Processing deferred bundle: git DEFER
+[WRN][1522606827.7544395924] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7544395924] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1522606827.7545599937] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7545599937] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1522606827.7546389103] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7546389103] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7547039986] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7547039986] Pre hook: antigen-bundle-cached git
+[WRN][1522606827.7548129559] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7548129559] Replace hook: antigen-bundle-parallel git
+[TRA][1522606827.7548840046] /home/shubham/.zshrc:5
+[TRA][1522606827.7548840046] antigen-bundle-parallel: git PARALLEL
+[TRA][1522606827.7548840046] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7549738884] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7549738884] Replaced hooked function.
+[LOG][1522606827.7550418377] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7550418377] Return from hook antigen-bundle with 0
+[LOG][1522606827.7551348209] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7551348209] Processing deferred bundle: heroku DEFER
+[WRN][1522606827.7553002834] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7553002834] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1522606827.7554187775] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7554187775] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1522606827.7554974556] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7554974556] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7555623055] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7555623055] Pre hook: antigen-bundle-cached heroku
+[WRN][1522606827.7556741238] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7556741238] Replace hook: antigen-bundle-parallel heroku
+[TRA][1522606827.7557468414] /home/shubham/.zshrc:5
+[TRA][1522606827.7557468414] antigen-bundle-parallel: heroku PARALLEL
+[TRA][1522606827.7557468414] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7558374405] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7558374405] Replaced hooked function.
+[LOG][1522606827.7559034824] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7559034824] Return from hook antigen-bundle with 0
+[LOG][1522606827.7559957504] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7559957504] Processing deferred bundle: pip DEFER
+[WRN][1522606827.7561624050] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7561624050] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1522606827.7562818527] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7562818527] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1522606827.7563631535] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7563631535] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7564270496] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7564270496] Pre hook: antigen-bundle-cached pip
+[WRN][1522606827.7565352917] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7565352917] Replace hook: antigen-bundle-parallel pip
+[TRA][1522606827.7566046715] /home/shubham/.zshrc:5
+[TRA][1522606827.7566046715] antigen-bundle-parallel: pip PARALLEL
+[TRA][1522606827.7566046715] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7566990852] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7566990852] Replaced hooked function.
+[LOG][1522606827.7567648888] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7567648888] Return from hook antigen-bundle with 0
+[LOG][1522606827.7568562031] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7568562031] Processing deferred bundle: lein DEFER
+[WRN][1522606827.7570216656] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7570216656] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1522606827.7571372986] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7571372986] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1522606827.7572166920] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7572166920] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7572813034] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7572813034] Pre hook: antigen-bundle-cached lein
+[WRN][1522606827.7573881149] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7573881149] Replace hook: antigen-bundle-parallel lein
+[TRA][1522606827.7574622631] /home/shubham/.zshrc:5
+[TRA][1522606827.7574622631] antigen-bundle-parallel: lein PARALLEL
+[TRA][1522606827.7574622631] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7575538158] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7575538158] Replaced hooked function.
+[LOG][1522606827.7576198578] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7576198578] Return from hook antigen-bundle with 0
+[LOG][1522606827.7577118874] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7577118874] Processing deferred bundle: command-not-found DEFER
+[WRN][1522606827.7578904629] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7578904629] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1522606827.7580096722] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7580096722] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1522606827.7580893040] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7580893040] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7581553459] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7581553459] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1522606827.7582647800] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7582647800] Replace hook: antigen-bundle-parallel command-not-found
+[TRA][1522606827.7583346367] /home/shubham/.zshrc:5
+[TRA][1522606827.7583346367] antigen-bundle-parallel: command-not-found PARALLEL
+[TRA][1522606827.7583346367] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7584249973] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7584249973] Replaced hooked function.
+[LOG][1522606827.7584915161] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7584915161] Return from hook antigen-bundle with 0
+[LOG][1522606827.7585880756] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7585880756] Processing deferred bundle: zsh-users/zsh-syntax-highlighting DEFER
+[WRN][1522606827.7587583065] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7587583065] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1522606827.7588748932] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7588748932] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1522606827.7589528561] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7589528561] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7590224743] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7590224743] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1522606827.7591335773] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7591335773] Replace hook: antigen-bundle-parallel zsh-users/zsh-syntax-highlighting
+[TRA][1522606827.7592060566] /home/shubham/.zshrc:5
+[TRA][1522606827.7592060566] antigen-bundle-parallel: zsh-users/zsh-syntax-highlighting PARALLEL
+[TRA][1522606827.7592060566] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7592971325] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7592971325] Replaced hooked function.
+[LOG][1522606827.7593631744] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7593631744] Return from hook antigen-bundle with 0
+[LOG][1522606827.7594547272] /home/shubham/.antigen.zsh:16
+[LOG][1522606827.7594547272] Processing deferred bundle: bhilburn/powerlevel9k --btype=theme DEFER
+[WRN][1522606827.7596213818] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7596213818] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1522606827.7597401142] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7597401142] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1522606827.7598185539] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7598185539] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1522606827.7598850727] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7598850727] Pre hook: antigen-bundle-cached bhilburn/powerlevel9k --btype=theme
+[WRN][1522606827.7599947453] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7599947453] Replace hook: antigen-bundle-parallel bhilburn/powerlevel9k --btype=theme
+[TRA][1522606827.7600665092] /home/shubham/.zshrc:5
+[TRA][1522606827.7600665092] antigen-bundle-parallel: bhilburn/powerlevel9k --btype=theme PARALLEL
+[TRA][1522606827.7600665092] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7601623535] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7601623535] Replaced hooked function.
+[LOG][1522606827.7602283955] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7602283955] Return from hook antigen-bundle with 0
+[WRN][1522606827.7603561878] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7603561878] Replace hook: antigen-apply-parallel-execute
+[WRN][1522606827.7604274750] /home/shubham/.antigen.zsh:65
+[WRN][1522606827.7604274750] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1522606827.7606041431] /home/shubham/.antigen.zsh:4
+[WRN][1522606827.7606041431] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1522606827.7606787682] /home/shubham/.antigen.zsh:8
+[WRN][1522606827.7606787682] Gonna install in parallel 8 bundles. PARALLEL
+[WRN][1522606827.7607412338] /home/shubham/.antigen.zsh:10
+[WRN][1522606827.7607412338] --loc=lib git heroku pip lein command-not-found zsh-users/zsh-syntax-highlighting bhilburn/powerlevel9k --btype=theme PARALLEL
+[WRN][1522606827.7612998486] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7612998486] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606827.7618167400] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7618167400] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606827.7623128891] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7623128891] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606827.7627954483] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7627954483] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606827.7632868290] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7632868290] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606827.7637741566] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7637741566] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1522606827.7642920017] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7642920017] Bundle zsh-users/zsh-syntax-highlighting already cloned locally. PARALLEL
+[WRN][1522606827.7648167610] /home/shubham/.antigen.zsh:24
+[WRN][1522606827.7648167610] Bundle bhilburn/powerlevel9k already cloned locally. PARALLEL
+[WRN][1522606827.7650654316] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7650654316] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1522606827.7651548386] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7651548386] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7652235031] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7652235031] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1522606827.7653267384] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7653267384] -antigen-hook-antigen-bundle --loc=lib
+[TRA][1522606827.7654004097] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7654004097] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1522606827.7654004097] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7663607597] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7663607597] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1522606827.7664673328] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7664673328] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7665760517] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7665760517] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc lib name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606827.7667305470] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7667305470] Replaced hooked function.
+[LOG][1522606827.7668030262] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7668030262] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7670824528] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7670824528] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1522606827.7671689987] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7671689987] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7672836781] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7672836781] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh
+[WRN][1522606827.7674663067] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7674663067] Replaced hooked function.
+[LOG][1522606827.7675371170] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7675371170] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7676792145] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7676792145] Return from hook antigen-bundle with 0
+[WRN][1522606827.7678763866] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7678763866] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1522606827.7679564953] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7679564953] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7680211067] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7680211067] Pre hook: antigen-bundle-cached git
+[WRN][1522606827.7681283951] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7681283951] -antigen-hook-antigen-bundle git
+[TRA][1522606827.7682008743] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7682008743] Called antigen-bundle with git BUNDLE
+[TRA][1522606827.7682008743] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7689905167] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7689905167] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1522606827.7690875530] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7690875530] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7691934109] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7691934109] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/git name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606827.7693436146] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7693436146] Replaced hooked function.
+[LOG][1522606827.7694151402] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7694151402] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7696251869] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7696251869] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1522606827.7697114944] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7697114944] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7698388100] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7698388100] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh
+[WRN][1522606827.7699441910] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7699441910] Replaced hooked function.
+[LOG][1522606827.7700138092] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7700138092] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7701425552] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7701425552] Return from hook antigen-bundle with 0
+[WRN][1522606827.7703394890] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7703394890] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1522606827.7704188824] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7704188824] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7704842091] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7704842091] Pre hook: antigen-bundle-cached heroku
+[WRN][1522606827.7705838680] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7705838680] -antigen-hook-antigen-bundle heroku
+[TRA][1522606827.7706551552] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7706551552] Called antigen-bundle with heroku BUNDLE
+[TRA][1522606827.7706551552] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7714667320] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7714667320] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1522606827.7715647221] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7715647221] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7716727257] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7716727257] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/heroku name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606827.7718253136] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7718253136] Replaced hooked function.
+[LOG][1522606827.7718970776] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7718970776] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7721023560] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7721023560] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1522606827.7721867561] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7721867561] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7722728252] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7722728252] Replace hook: -antigen-load-source-cached
+[WRN][1522606827.7723672390] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7723672390] Replaced hooked function.
+[LOG][1522606827.7724375725] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7724375725] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7725636959] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7725636959] Return from hook antigen-bundle with 0
+[WRN][1522606827.7727618217] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7727618217] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1522606827.7728404999] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7728404999] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7729077339] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7729077339] Pre hook: antigen-bundle-cached pip
+[WRN][1522606827.7730102539] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7730102539] -antigen-hook-antigen-bundle pip
+[TRA][1522606827.7730836868] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7730836868] Called antigen-bundle with pip BUNDLE
+[TRA][1522606827.7730836868] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7738668919] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7738668919] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1522606827.7739651203] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7739651203] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7740697861] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7740697861] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/pip name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606827.7742199898] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7742199898] Replaced hooked function.
+[LOG][1522606827.7742948532] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7742948532] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7745044231] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7745044231] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1522606827.7745890617] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7745890617] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7746765614] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7746765614] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip/pip.plugin.zsh
+[WRN][1522606827.7747731209] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7747731209] Replaced hooked function.
+[LOG][1522606827.7748470306] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7748470306] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7749774456] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7749774456] Return from hook antigen-bundle with 0
+[WRN][1522606827.7751774788] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7751774788] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1522606827.7752585411] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7752585411] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7753260136] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7753260136] Pre hook: antigen-bundle-cached lein
+[WRN][1522606827.7754268646] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7754268646] -antigen-hook-antigen-bundle lein
+[TRA][1522606827.7754991055] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7754991055] Called antigen-bundle with lein BUNDLE
+[TRA][1522606827.7754991055] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7762758732] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7762758732] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1522606827.7763738632] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7763738632] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7764801979] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7764801979] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/lein name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606827.7766323090] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7766323090] Replaced hooked function.
+[LOG][1522606827.7767057419] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7767057419] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7769124508] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7769124508] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1522606827.7769966125] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7769966125] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7770857811] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7770857811] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein/lein.plugin.zsh
+[WRN][1522606827.7771828175] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7771828175] Replaced hooked function.
+[LOG][1522606827.7772517204] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7772517204] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7773833275] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7773833275] Return from hook antigen-bundle with 0
+[WRN][1522606827.7775824070] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7775824070] Updated meta: target antigen-bundle mode repeat type pre called 22
+[WRN][1522606827.7776608467] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7776608467] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7777264118] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7777264118] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1522606827.7778370380] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7778370380] -antigen-hook-antigen-bundle command-not-found
+[TRA][1522606827.7779092789] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7779092789] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1522606827.7779092789] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7787034512] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7787034512] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1522606827.7788035870] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7788035870] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7789099216] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7789099216] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/command-not-found name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1522606827.7790665627] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7790665627] Replaced hooked function.
+[LOG][1522606827.7791409492] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7791409492] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7793533802] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7793533802] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1522606827.7794368267] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7794368267] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7795243263] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7795243263] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh
+[WRN][1522606827.7796247005] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7796247005] Replaced hooked function.
+[LOG][1522606827.7796947956] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7796947956] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7798287868] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7798287868] Return from hook antigen-bundle with 0
+[WRN][1522606827.7800292969] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7800292969] Updated meta: target antigen-bundle mode repeat type pre called 23
+[WRN][1522606827.7801098824] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7801098824] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7801768780] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7801768780] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1522606827.7802820206] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7802820206] -antigen-hook-antigen-bundle zsh-users/zsh-syntax-highlighting
+[TRA][1522606827.7803533077] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7803533077] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1522606827.7803533077] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7811799049] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7811799049] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1522606827.7812781334] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7812781334] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7813870907] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7813870907] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting btype plugin url https://github.com/zsh-users/zsh-syntax-highlighting.git loc / name zsh-users/zsh-syntax-highlighting make_local_clone true
+[WRN][1522606827.7815389633] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7815389633] Replaced hooked function.
+[LOG][1522606827.7816119194] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7816119194] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7818453312] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7818453312] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1522606827.7819330692] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7819330692] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7820250988] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7820250988] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting///zsh-syntax-highlighting.plugin.zsh
+[WRN][1522606827.7821280956] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7821280956] Replaced hooked function.
+[LOG][1522606827.7821993828] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7821993828] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7823367119] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7823367119] Return from hook antigen-bundle with 0
+[WRN][1522606827.7825348377] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7825348377] Updated meta: target antigen-bundle mode repeat type pre called 24
+[WRN][1522606827.7826154232] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7826154232] Processing hooks: antigen-bundle-cached
+[WRN][1522606827.7826824188] /home/shubham/.antigen.zsh:1487
+[WRN][1522606827.7826824188] Pre hook: antigen-bundle-cached bhilburn/powerlevel9k --btype=theme
+[WRN][1522606827.7827889919] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7827889919] -antigen-hook-antigen-bundle bhilburn/powerlevel9k --btype=theme
+[TRA][1522606827.7828600407] /home/shubham/.antigen.zsh:2
+[TRA][1522606827.7828600407] Called antigen-bundle with bhilburn/powerlevel9k --btype=theme BUNDLE
+[TRA][1522606827.7828600407] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[WRN][1522606827.7836699486] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7836699486] Updated meta: target -antigen-load-env mode repeat type replace called 8
+[WRN][1522606827.7837686539] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7837686539] Processing hooks: -antigen-load-env-cached
+[WRN][1522606827.7838714123] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7838714123] Replace hook: -antigen-load-env-cached dir /home/shubham/.antigen/bundles/bhilburn/powerlevel9k btype theme url https://github.com/bhilburn/powerlevel9k.git loc / name bhilburn/powerlevel9k make_local_clone true
+[WRN][1522606827.7840223312] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7840223312] Replaced hooked function.
+[LOG][1522606827.7840948105] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7840948105] Return from hook -antigen-load-env with 0
+[WRN][1522606827.7843048573] /home/shubham/.antigen.zsh:1469
+[WRN][1522606827.7843048573] Updated meta: target -antigen-load-source mode repeat type replace called 8
+[WRN][1522606827.7843894958] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7843894958] Processing hooks: -antigen-load-source-cached
+[WRN][1522606827.7844815254] /home/shubham/.antigen.zsh:1498
+[WRN][1522606827.7844815254] Replace hook: -antigen-load-source-cached /home/shubham/.antigen/bundles/bhilburn/powerlevel9k///powerlevel9k.zsh-theme
+[WRN][1522606827.7845792770] /home/shubham/.antigen.zsh:1509
+[WRN][1522606827.7845792770] Replaced hooked function.
+[LOG][1522606827.7846493721] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7846493721] Return from hook -antigen-load-source with 0
+[LOG][1522606827.7847809792] /home/shubham/.antigen.zsh:1518
+[LOG][1522606827.7847809792] Return from hook antigen-bundle with 0
+[WRN][1522606827.7848730087] /home/shubham/.antigen.zsh:48
+[WRN][1522606827.7848730087] Parallel install done PARALLEL
+[WRN][1522606827.7851488590] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7851488590] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1522606827.7852408886] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7852408886] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1522606827.7853286266] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7853286266] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1522606827.7854120731] /home/shubham/.antigen.zsh:1462
+[WRN][1522606827.7854120731] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1522606827.7854797840] /home/shubham/.antigen.zsh:1484
+[WRN][1522606827.7854797840] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1522606827.7855558395] /home/shubham/.antigen.zsh:1505
+[WRN][1522606827.7855558395] -antigen-hook-antigen-apply 
+[LOG][1522606827.7856235504] /home/shubham/.antigen.zsh:2
+[LOG][1522606827.7856235504] Called antigen-apply
+[TRA][1522606827.7856857777] /home/shubham/.antigen.zsh:3
+[TRA][1522606827.7856857777] Gonna create compdump file @ apply COMPDUMP
+[TRA][1522606827.7856857777] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/shubham/.zshrc
+[LOG][1522606828.0303406715] /home/shubham/.antigen.zsh:1518
+[LOG][1522606828.0303406715] Return from hook antigen-apply with 0
+[WRN][1522606828.0306262970] /home/shubham/.antigen.zsh:1509
+[WRN][1522606828.0306262970] Replaced hooked function.
+[WRN][1522606828.0307166576] /home/shubham/.antigen.zsh:1513
+[WRN][1522606828.0307166576] Post hook: antigen-apply-lock
+[WRN][1522606828.0308034420] /home/shubham/.antigen.zsh:22
+[WRN][1522606828.0308034420] Freeing antigen-lock file at /home/shubham/.antigen/.lock
+[WRN][1522606828.0323312283] /home/shubham/.antigen.zsh:1513
+[WRN][1522606828.0323312283] Post hook: antigen-apply-cached
+[LOG][1522606828.0324659348] /home/shubham/.antigen.zsh:7
+[LOG][1522606828.0324659348] TRACE: /home/shubham/.antigen.zsh:1514 /home/shubham/.antigen.zsh:2 /home/shubham/.antigen.zsh:11 /home/shubham/.antigen.zsh:1506 /home/shubham/.antigen.zsh:2 /home/shubham/.zshrc:25 zsh:0
+[LOG][1522606828.0328328609] /home/shubham/.antigen.zsh:1787
+[LOG][1522606828.0328328609] Gonna generate cache for /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip/pip.plugin.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein/lein.plugin.zsh /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found /home/shubham/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting// /home/shubham/.antigen/bundles/zsh-users/zsh-syntax-highlighting///zsh-syntax-highlighting.plugin.zsh /home/shubham/.antigen/bundles/bhilburn/powerlevel9k// /home/shubham/.antigen/bundles/bhilburn/powerlevel9k///powerlevel9k.zsh-theme
+[LOG][1522606828.0549900532] /home/shubham/.antigen.zsh:1844
+[LOG][1522606828.0549900532] CHECK_FILES /home/shubham/.zshrc /home/shubham/.zshrc
+[LOG][1522606828.1233425140] /home/shubham/.antigen.zsh:1518
+[LOG][1522606828.1233425140] Return from hook antigen-apply with 0
+[LOG][1522606828.1235086918] /home/shubham/.antigen.zsh:1518
+[LOG][1522606828.1235086918] Return from hook antigen with 0
+[WRN][1525547400.7627246380] /home/shubham/.antigen.zsh:266
+[WRN][1525547400.7627246380] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1525547400.7725687027] /home/shubham/.antigen.zsh:475
+[TRA][1525547400.7725687027] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1525547400.7725687027] TRACE
+-antigen-env-setup
+/home/shubham/.antigen.zsh
+.zshrc
+[TRA][1525547400.7888746262] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7888746262] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1525547400.7888746262] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+.zshrc
+[TRA][1525547400.7894554138] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7894554138] Called antigen-bundle with git BUNDLE
+[TRA][1525547400.7894554138] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547400.7899231911] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7899231911] Called antigen-bundle with heroku BUNDLE
+[TRA][1525547400.7899231911] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547400.7903711796] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7903711796] Called antigen-bundle with pip BUNDLE
+[TRA][1525547400.7903711796] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547400.7908046246] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7908046246] Called antigen-bundle with lein BUNDLE
+[TRA][1525547400.7908046246] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547400.7912611961] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7912611961] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1525547400.7912611961] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547400.7917194366] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7917194366] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1525547400.7917194366] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547400.7937517166] /home/shubham/.antigen.zsh:808
+[TRA][1525547400.7937517166] Called antigen-bundle with bhilburn/powerlevel9k --btype=theme BUNDLE
+[TRA][1525547400.7937517166] TRACE
+antigen-bundle
+antigen-theme
+antigen
+.zshrc
+[LOG][1525547400.7943506241] /home/shubham/.antigen.zsh:785
+[LOG][1525547400.7943506241] Called antigen-apply
+[TRA][1525547400.7944011688] /home/shubham/.antigen.zsh:789
+[TRA][1525547400.7944011688] Gonna create compdump file @ apply COMPDUMP
+[TRA][1525547400.7944011688] TRACE
+antigen-apply
+antigen
+.zshrc
+[WRN][1525547552.1152448654] /home/shubham/.antigen.zsh:266
+[WRN][1525547552.1152448654] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1525547552.1153430939] /home/shubham/.antigen.zsh:475
+[TRA][1525547552.1153430939] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1525547552.1153430939] TRACE
+-antigen-env-setup
+/home/shubham/.antigen.zsh
+.zshrc
+[TRA][1525547552.1279227734] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1279227734] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1525547552.1279227734] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+.zshrc
+[TRA][1525547552.1287281513] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1287281513] Called antigen-bundle with git BUNDLE
+[TRA][1525547552.1287281513] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547552.1291844845] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1291844845] Called antigen-bundle with heroku BUNDLE
+[TRA][1525547552.1291844845] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547552.1296257973] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1296257973] Called antigen-bundle with pip BUNDLE
+[TRA][1525547552.1296257973] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547552.1300625801] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1300625801] Called antigen-bundle with lein BUNDLE
+[TRA][1525547552.1300625801] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547552.1305003166] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1305003166] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1525547552.1305003166] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547552.1309356689] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1309356689] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1525547552.1309356689] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1525547552.1333160400] /home/shubham/.antigen.zsh:808
+[TRA][1525547552.1333160400] Called antigen-bundle with bhilburn/powerlevel9k --btype=theme BUNDLE
+[TRA][1525547552.1333160400] TRACE
+antigen-bundle
+antigen-theme
+antigen
+.zshrc
+[LOG][1525547552.1339704990] /home/shubham/.antigen.zsh:785
+[LOG][1525547552.1339704990] Called antigen-apply
+[TRA][1525547552.1340234280] /home/shubham/.antigen.zsh:789
+[TRA][1525547552.1340234280] Gonna create compdump file @ apply COMPDUMP
+[TRA][1525547552.1340234280] TRACE
+antigen-apply
+antigen
+.zshrc
