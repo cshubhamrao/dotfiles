@@ -5,7 +5,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-source ~/.antigen.zsh
+source ~/antigen.zsh
 
 
 # Load the oh-my-zsh's library.
