@@ -4,6 +4,7 @@
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
+FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 
 source ~/antigen.zsh
 
@@ -13,7 +14,7 @@ antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
 antigen bundle git
-antigen bundle heroku
+# antigen bundle heroku
 antigen bundle pip
 antigen bundle lein
 antigen bundle command-not-found
