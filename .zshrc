@@ -31,3 +31,14 @@ antigen apply
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 export GOPATH="/Users/shubham/devel/go"
 export PATH="$(go env GOPATH)/bin:$PATH"
+source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
+source "$(brew --prefix)/share/google-cloud-sdk/completion.zsh.inc"
+alias k=kubectl
+
+# Created by `pipx` on 2024-11-13 07:49:00
+export PATH="$PATH:/Users/shubham/.local/bin"
+export NVM_DIR="$HOME/.nvm"
+  [ -s "$HOMEBREW_PREFIX/opt/nvm/nvm.sh" ] && \. "$HOMEBREW_PREFIX/opt/nvm/nvm.sh" # This loads nvm
+  [ -s "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" ] && \. "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" # This loads nvm bash_completion
+
+export SSH_AUTH_SOCK=/Users/shubham/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
