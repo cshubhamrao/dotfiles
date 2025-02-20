@@ -42,3 +42,8 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" ] && \. "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" # This loads nvm bash_completion
 
 export SSH_AUTH_SOCK=/Users/shubham/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
+# The following lines have been added by Docker Desktop to enable Docker CLI completions.
+fpath=(/Users/shubham/.docker/completions $fpath)
+autoload -Uz compinit
+compinit
+# End of Docker CLI completions
