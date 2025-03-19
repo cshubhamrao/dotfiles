@@ -14,10 +14,19 @@ antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
 antigen bundle git
+antigen bundle gh
+antigen bundle aws
+antigen bundle gcloud
+antigen bundle kubectl
 # antigen bundle heroku
 antigen bundle pip
-antigen bundle lein
+antigen bundle nvm
 antigen bundle command-not-found
+antigen bundle brew
+antigen bundle colorize
+antigen bundle ssh
+antigen bundle ssh-agent
+
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
