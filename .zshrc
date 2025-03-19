@@ -40,7 +40,6 @@ antigen apply
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 # export GOPATH="/Users/shubham/devel/go"
 # export PATH="$(go env GOPATH)/bin:$PATH"
-eval "$(ssh-agent)" >> /dev/null
 source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
 source "$(brew --prefix)/share/google-cloud-sdk/completion.zsh.inc"
 alias k=kubectl
