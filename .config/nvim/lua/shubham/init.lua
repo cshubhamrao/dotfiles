@@ -1,4 +1,4 @@
 require("shubham.remap")
-require("shubham.packer")
+require("shubham.lazy")
 require("shubham.set")
 -- print("Hello from inside")
