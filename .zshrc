@@ -14,7 +14,7 @@ antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
 antigen bundle git
-antigen bundle gh
+# antigen bundle gh  # Disabled - use 'gh completion -s zsh' instead
 antigen bundle aws
 antigen bundle gcloud
 antigen bundle kubectl
@@ -24,8 +24,13 @@ antigen bundle nvm
 antigen bundle command-not-found
 antigen bundle brew
 antigen bundle colorize
-antigen bundle ssh
-antigen bundle ssh-agent
+# antigen bundle ssh
+# antigen bundle ssh-agent  # Not needed - using macOS native ssh-agent
+
+# Ensure we use macOS native ssh-agent, not Secretive
+if [[ "$SSH_AUTH_SOCK" == *"Secretive"* ]]; then
+    unset SSH_AUTH_SOCK
+fi
 
 
 # Syntax highlighting bundle.
@@ -50,9 +55,15 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "$HOMEBREW_PREFIX/opt/nvm/nvm.sh" ] && \. "$HOMEBREW_PREFIX/opt/nvm/nvm.sh" # This loads nvm
   [ -s "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" ] && \. "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" # This loads nvm bash_completion
 
-export SSH_AUTH_SOCK=/Users/shubham/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
+# Secretive SSH agent (commented out - using macOS native instead)
+# export SSH_AUTH_SOCK=/Users/shubham/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
 # The following lines have been added by Docker Desktop to enable Docker CLI completions.
 fpath=(/Users/shubham/.docker/completions $fpath)
 autoload -Uz compinit
 compinit
 # End of Docker CLI completions
+
+# GitHub CLI completion (must be after compinit)
+if command -v gh &> /dev/null; then
+    eval "$(gh completion -s zsh)"
+fi
